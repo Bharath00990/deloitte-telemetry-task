@@ -31,5 +31,5 @@ This project is part of the Deloitte Data Analytics Virtual Experience Program o
 ## Author
 **Bharath Chandra Gurrala**
 
-- LinkedIn: https://www.linkedin.com/in/gurrala-bharath-chandra-3a2a0a349/
+- LinkedIn: https://www.linkedin.com/in/bharath-chandra-gurrala-3a2a0a349/
 - GitHub: https://github.com/Bharath00990
